@@ -30,3 +30,7 @@ plt.legend(bbox_to_anchor=(1.05, 1), loc=2, borderaxespad=0.)
 
 plt.show()
 print()
+
+
+# histogram
+sns.histplot(data=df_return_calc, x=Delta_x')
